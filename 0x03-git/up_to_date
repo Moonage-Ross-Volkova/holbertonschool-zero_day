@@ -1,4 +1,1 @@
-git checkout main
-git push
-git commit -m "Update"
-touch up_to_date
+git pull
